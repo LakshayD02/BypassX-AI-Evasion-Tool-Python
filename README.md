@@ -1,10 +1,14 @@
 # AI Evasion Tool - Professional Red Teaming Framework
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-2.3-orange)
+# AI Evasion Tool - Professional Red Teaming Framework
 
-An advanced tool for testing AI-based security systems with sophisticated evasion techniques. This professional red teaming framework simulates various attack vectors while employing multiple evasion strategies to bypass AI-powered detection systems.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-orange?logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-blue?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7%2B-blue?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-blue?logo=seaborn)
 
 ## 🚀 Key Features
 
