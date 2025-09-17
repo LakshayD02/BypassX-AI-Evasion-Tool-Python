@@ -1,7 +1,5 @@
 # AI Evasion Tool - Professional Red Teaming Framework
 
-# AI Evasion Tool - Professional Red Teaming Framework
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-orange?logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?logo=pytorch)
